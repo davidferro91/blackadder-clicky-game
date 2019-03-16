@@ -2,73 +2,73 @@
   {
     "id": 1,
     "name": "Blackadder I",
-    "image": "/assets/images/blackadderI.png",
+    "image": "/blackadder-clicky-game/assets/images/blackadderI.png",
     "selected": false
   },
   {
     "id": 2,
     "name": "Blackadder II",
-    "image": "/assets/images/blackadderII.png",
+    "image": "/blackadder-clicky-game/assets/images/blackadderII.png",
     "selected": false
   },
   {
     "id": 3,
     "name": "Blackadder III",
-    "image": "/assets/images/blackadderIII.png",
+    "image": "/blackadder-clicky-game/assets/images/blackadderIII.png",
     "selected": false
   },
   {
     "id": 4,
     "name": "Blackadder IV",
-    "image": "/assets/images/blackadderIV.png",
+    "image": "/blackadder-clicky-game/assets/images/blackadderIV.png",
     "selected": false
   },
   {
     "id": 5,
     "name": "Baldrick I",
-    "image": "/assets/images/BaldrickI.png",
+    "image": "/blackadder-clicky-game/assets/images/BaldrickI.png",
     "selected": false
   },
   {
     "id": 6,
     "name": "Baldrick II",
-    "image": "/assets/images/BaldrickII.png",
+    "image": "/blackadder-clicky-game/assets/images/BaldrickII.png",
     "selected": false
   },
   {
     "id": 7,
     "name": "Baldrick III",
-    "image": "/assets/images/BaldrickIII.png",
+    "image": "/blackadder-clicky-game/assets/images/BaldrickIII.png",
     "selected": false
   },
   {
     "id": 8,
     "name": "Baldrick IV",
-    "image": "/assets/images/BaldrickIV.png",
+    "image": "/blackadder-clicky-game/assets/images/BaldrickIV.png",
     "selected": false
   },
   {
     "id": 9,
     "name": "Melchett II",
-    "image": "/assets/images/MelchettII.png",
+    "image": "/blackadder-clicky-game/assets/images/MelchettII.png",
     "selected": false
   },
   {
     "id": 10,
     "name": "Melchett IV",
-    "image": "/assets/images/MelchettIV.png",
+    "image": "/blackadder-clicky-game/assets/images/MelchettIV.png",
     "selected": false
   },
   {
     "id": 11,
     "name": "George III",
-    "image": "/assets/images/GeorgeIII.png",
+    "image": "/blackadder-clicky-game/assets/images/GeorgeIII.png",
     "selected": false
   },
   {
     "id": 12,
     "name": "George IV",
-    "image": "/assets/images/GeorgeIV.png",
+    "image": "/blackadder-clicky-game/assets/images/GeorgeIV.png",
     "selected": false
   }
 ]
