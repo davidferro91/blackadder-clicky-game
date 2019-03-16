@@ -2,73 +2,73 @@
   {
     "id": 1,
     "name": "Blackadder I",
-    "image": "%PUBLIC_URL%/assets/images/blackadderI.png",
+    "image": "/assets/images/blackadderI.png",
     "selected": false
   },
   {
     "id": 2,
     "name": "Blackadder II",
-    "image": "%PUBLIC_URL%/assets/images/blackadderII.png",
+    "image": "/assets/images/blackadderII.png",
     "selected": false
   },
   {
     "id": 3,
     "name": "Blackadder III",
-    "image": "%PUBLIC_URL%/assets/images/blackadderIII.png",
+    "image": "/assets/images/blackadderIII.png",
     "selected": false
   },
   {
     "id": 4,
     "name": "Blackadder IV",
-    "image": "%PUBLIC_URL%/assets/images/blackadderIV.png",
+    "image": "/assets/images/blackadderIV.png",
     "selected": false
   },
   {
     "id": 5,
     "name": "Baldrick I",
-    "image": "%PUBLIC_URL%/assets/images/BaldrickI.png",
+    "image": "/assets/images/BaldrickI.png",
     "selected": false
   },
   {
     "id": 6,
     "name": "Baldrick II",
-    "image": "%PUBLIC_URL%/assets/images/BaldrickII.png",
+    "image": "/assets/images/BaldrickII.png",
     "selected": false
   },
   {
     "id": 7,
     "name": "Baldrick III",
-    "image": "%PUBLIC_URL%/assets/images/BaldrickIII.png",
+    "image": "/assets/images/BaldrickIII.png",
     "selected": false
   },
   {
     "id": 8,
     "name": "Baldrick IV",
-    "image": "%PUBLIC_URL%/assets/images/BaldrickIV.png",
+    "image": "/assets/images/BaldrickIV.png",
     "selected": false
   },
   {
     "id": 9,
     "name": "Melchett II",
-    "image": "%PUBLIC_URL%/assets/images/MelchettII.png",
+    "image": "/assets/images/MelchettII.png",
     "selected": false
   },
   {
     "id": 10,
     "name": "Melchett IV",
-    "image": "%PUBLIC_URL%/assets/images/MelchettIV.png",
+    "image": "/assets/images/MelchettIV.png",
     "selected": false
   },
   {
     "id": 11,
     "name": "George III",
-    "image": "%PUBLIC_URL%/assets/images/GeorgeIII.png",
+    "image": "/assets/images/GeorgeIII.png",
     "selected": false
   },
   {
     "id": 12,
     "name": "George IV",
-    "image": "%PUBLIC_URL%/assets/images/GeorgeIV.png",
+    "image": "/assets/images/GeorgeIV.png",
     "selected": false
   }
 ]

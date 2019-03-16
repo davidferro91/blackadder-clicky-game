@@ -7,5 +7,5 @@
   justify-content: space-around;
   align-content: flex-start;
   overflow: auto;
-  background-image: url(%PUBLIC_URL%/assets/images/countryside.jpg);
+  background-image: url(/assets/images/countryside.jpg);
 }
