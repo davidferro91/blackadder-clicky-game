@@ -1,0 +1,8 @@
+.title {
+  width: 100%;
+  text-align: center;
+  font-weight: 700;
+  font-family: 'Charm', cursive;
+  padding: 10px !important;
+  cursor: default !important;
+}
