@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/blackadder-clicky-game/static/js/runtime~main.684a1752.js"
   },
   {
-    "revision": "5b00412b8415b975ce50",
+    "revision": "1294cb3f75c132ee0350",
     "url": "/blackadder-clicky-game/static/js/main.d637df0e.chunk.js"
   },
   {
@@ -12,11 +12,11 @@ self.__precacheManifest = [
     "url": "/blackadder-clicky-game/static/js/2.8f71a45e.chunk.js"
   },
   {
-    "revision": "5b00412b8415b975ce50",
-    "url": "/blackadder-clicky-game/static/css/main.7bd11f23.chunk.css"
+    "revision": "1294cb3f75c132ee0350",
+    "url": "/blackadder-clicky-game/static/css/main.a1ea4edd.chunk.css"
   },
   {
-    "revision": "3695cb02dce32c5470402c368a7b30e4",
+    "revision": "9954a13e1e3ccd3a1a33cab0f1cad491",
     "url": "/blackadder-clicky-game/index.html"
   }
 ];

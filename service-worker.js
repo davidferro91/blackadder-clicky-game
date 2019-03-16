@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/blackadder-clicky-game/precache-manifest.64eb1b1aa0f7a0e87464a8d3796b1cfc.js"
+  "/blackadder-clicky-game/precache-manifest.486617b640abdb443bae8620a0e034f7.js"
 );
 
 workbox.clientsClaim();

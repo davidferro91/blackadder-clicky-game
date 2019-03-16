@@ -1,5 +1,5 @@
 {
-  "main.css": "/blackadder-clicky-game/static/css/main.7bd11f23.chunk.css",
+  "main.css": "/blackadder-clicky-game/static/css/main.a1ea4edd.chunk.css",
   "main.js": "/blackadder-clicky-game/static/js/main.d637df0e.chunk.js",
   "main.js.map": "/blackadder-clicky-game/static/js/main.d637df0e.chunk.js.map",
   "runtime~main.js": "/blackadder-clicky-game/static/js/runtime~main.684a1752.js",
@@ -7,7 +7,7 @@
   "static/js/2.8f71a45e.chunk.js": "/blackadder-clicky-game/static/js/2.8f71a45e.chunk.js",
   "static/js/2.8f71a45e.chunk.js.map": "/blackadder-clicky-game/static/js/2.8f71a45e.chunk.js.map",
   "index.html": "/blackadder-clicky-game/index.html",
-  "precache-manifest.64eb1b1aa0f7a0e87464a8d3796b1cfc.js": "/blackadder-clicky-game/precache-manifest.64eb1b1aa0f7a0e87464a8d3796b1cfc.js",
+  "precache-manifest.486617b640abdb443bae8620a0e034f7.js": "/blackadder-clicky-game/precache-manifest.486617b640abdb443bae8620a0e034f7.js",
   "service-worker.js": "/blackadder-clicky-game/service-worker.js",
-  "static/css/main.7bd11f23.chunk.css.map": "/blackadder-clicky-game/static/css/main.7bd11f23.chunk.css.map"
+  "static/css/main.a1ea4edd.chunk.css.map": "/blackadder-clicky-game/static/css/main.a1ea4edd.chunk.css.map"
 }
